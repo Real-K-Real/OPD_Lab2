@@ -5,7 +5,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # необходимый для работы токен, получаемый в боте BotFather
-BOT_TOKEN = "7819488769:AAF7JLBehs0HrbnwUawZM-JyX3ivX0vBvbQ"
+BOT_TOKEN = ""
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
